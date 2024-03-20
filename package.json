@@ -1,0 +1,18 @@
+{
+  "name": "ark5-one-simple-calculator",
+  "version": "1.0.3",
+  "description": "one-sipmle-calculater",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "ark5-one-simple-calculator": "^1.0.2",
+    "inquirer": "^9.2.16"
+  }
+}
